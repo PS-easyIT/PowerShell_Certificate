@@ -1,4 +1,4 @@
-# 📜 Zusätzliche Zertifikate
+# 📜 Zertifikate
 
 Für die Verwendung von signierten Skripten aus den PhinIT easyIT Projekten:
 
@@ -27,7 +27,7 @@ Das Skript prüft die erforderlichen Speicherorte und importiert das Zertifikat 
 
 ---
 
-# 📜 Additional Certificates
+# 📜 Certificates
 
 For using signed scripts from PhinIT easyIT projects:
 
