@@ -1,6 +1,7 @@
 # 🔐 PhinIT CERTUM Code Signing & EXE Creator
 
 GUI-Tool zum Signieren von PowerShell-Skripten und Konvertieren zu signierten EXE-Dateien mit CERTUM Code Signing Zertifikaten.
+
 GUI tool for signing PowerShell scripts and converting them to signed EXE files using CERTUM Code Signing certificates.
 
 ![PhinIT CERTUM Code Signing Tool](https://github.com/PS-easyIT/PowerShell_Certificate/blob/main/Screenshot_PhinIT%20CERTUM%20Code%20Signing%20%26%20EXE%20Creator%20V1.jpg)
